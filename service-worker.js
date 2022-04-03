@@ -6,7 +6,6 @@ const FILES_TO_CACHE = [
         "./public/css/styles.css",
         "./public/js/index.js",
         "./public/js/idb.js",
-        //"./public/js/manifest.json",
         "./public/icons/icon-72x72.png",
         "./public/icons/icon-96x96.png",
         "./public/icons/icon-128x128.png",
