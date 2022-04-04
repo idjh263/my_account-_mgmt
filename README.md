@@ -24,6 +24,8 @@
    2. npm install or npm i - to download the dependencies 
    3. Open apllication to localhost or thru heroku 
 
+   https://immense-ridge-90844.herokuapp.com/
+
 ## Usage
 
 
