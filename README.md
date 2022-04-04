@@ -28,6 +28,14 @@
 
 ## Usage
 
+Application is working at local port. 
+Still needs to resolve issues with the deployed url 
+
+Deployed application 
+![Screen Shot 2022-04-03 at 10 22 59 PM](https://user-images.githubusercontent.com/92761848/161464352-ebbe3c80-0b85-454c-ac3f-8c3346891042.png)
+
+Index DB to store data 
+<img width="1059" alt="Screen Shot 2022-04-03 at 7 15 57 PM" src="https://user-images.githubusercontent.com/92761848/161464363-87209602-3269-4855-bd7c-c83c831b403b.png">
 
 
 
